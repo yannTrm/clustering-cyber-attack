@@ -1,0 +1,12 @@
+{
+    "best_params": {
+        "n_estimators": 688,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt",
+        "max_depth": 30,
+        "bootstrap": false
+    },
+    "best_estimator": "RandomForestClassifier(bootstrap=False, max_depth=30, n_estimators=688)",
+    "best_score": 0.9981006647673314
+}
